@@ -68,6 +68,7 @@ Connected battery starts to turn on transistor that turns on photocoupler. Circu
 
 ## Usage
 Intended use is keychain charger to charge for example car battery form powerbank that is capable of PD output.
+
 <img src="https://github.com/user-attachments/assets/ad4e4517-9ee3-4375-90c0-3b28c43b1e2f" width="300" />
 
 Or li-ion / li-pol cell (using different settings) for various use cases.
