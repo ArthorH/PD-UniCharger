@@ -28,16 +28,16 @@
 IP2721 negotiates voltage set by J2 (short 20v open 15v) and outputs it to VBUS_PD
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8ebe29a4-e533-4ae5-b07a-94d76b96a368" width="300" />
-  <img src="https://github.com/user-attachments/assets/75666e4f-0027-4aa0-863f-b66048ef49ce" width="600" /> 
+  <img src="https://github.com/user-attachments/assets/8ebe29a4-e533-4ae5-b07a-94d76b96a368" width="200" />
+  <img src="https://github.com/user-attachments/assets/75666e4f-0027-4aa0-863f-b66048ef49ce" width="500" /> 
 </p>
 
 
 ## CC CV Stepdown
 Typycal LM358 based CC CV regulation circuit
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/a8ead8d4-49f1-4695-b69c-f5615e64859f" width="300" />
-  <img src="https://github.com/user-attachments/assets/3b3a86e0-85a6-4f0e-87b1-5a8795c68d1e" width="600" /> 
+  <img src="https://github.com/user-attachments/assets/a8ead8d4-49f1-4695-b69c-f5615e64859f" width="200" />
+  <img src="https://github.com/user-attachments/assets/3b3a86e0-85a6-4f0e-87b1-5a8795c68d1e" width="500" /> 
 </p>
 
 ### CC CV in operation
@@ -50,8 +50,8 @@ CC            |  CV
 Battery protection circuit works as SR latch with one of latching elements being P-MOS that outputs voltage to battery.
 One downside to using this schematic is that charger needs to be powered down in order to "delatch" protection circuit, otherwise it may not work if battery had been disconected and reconnected again. This issue will be fixed in upcomming REV-B. 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/03952ef4-986d-4f59-8f45-b673f1dcc226" width="300" />
-  <img src="https://github.com/user-attachments/assets/7a46a873-bafb-4495-bc38-73dc94930a46" width="600" /> 
+  <img src="https://github.com/user-attachments/assets/03952ef4-986d-4f59-8f45-b673f1dcc226" width="200" />
+  <img src="https://github.com/user-attachments/assets/7a46a873-bafb-4495-bc38-73dc94930a46" width="500" /> 
 </p>
 
 
