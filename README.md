@@ -6,10 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ab996620-e3c2-4d5a-84f5-255e9719cc19" width="500" height="400">
-
-</p>
+![obraz](https://github.com/user-attachments/assets/f3a32b18-92d7-44ed-8ba4-15254656f476)
 
 
 ---
@@ -69,11 +66,8 @@ Connected battery starts to turn on transistor that turns on photocoupler. Circu
 ## Usage
 Intended use is keychain charger to charge for example car battery form powerbank that is capable of PD output.
 
-<img src="https://github.com/user-attachments/assets/ad4e4517-9ee3-4375-90c0-3b28c43b1e2f" width="300" />
+![obraz](https://github.com/user-attachments/assets/99aec52b-fe09-4321-bbdc-29edf8ee4b4a)
 
-Or li-ion / li-pol cell (using different settings) for various use cases.
-
-<img src="https://github.com/user-attachments/assets/be35e69e-44e1-4ee9-a174-26b7b43ecd69" width="300" />
 
 It is definitely better to have one of those boards lying arround in car or in backpack than not even tho it does not offer best charging performance. 
 
