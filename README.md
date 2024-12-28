@@ -68,8 +68,7 @@ Intended use is keychain charger to charge for example car battery form powerban
 
 ![obraz](https://github.com/user-attachments/assets/99aec52b-fe09-4321-bbdc-29edf8ee4b4a)
 
-
-It is definitely better to have one of those boards lying arround in car or in backpack than not even tho it does not offer best charging performance. 
+It is advantageous to carry a portable charging board in a vehicle or backpack as a contingency, even though its charging efficiency may not be optimal.
 
 # License 
 CERN-OHL-P
