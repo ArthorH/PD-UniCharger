@@ -2,13 +2,10 @@
 
 # Universal Type C charger for every battery type !
 
-
-
-
-
 ![obraz](https://github.com/user-attachments/assets/f3a32b18-92d7-44ed-8ba4-15254656f476)
 
-
+## Key technologies:
+ <img align="center" height="70" src="https://github.com/user-attachments/assets/21632584-becb-4529-b696-acb84c8190e9">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 ---
 # Features
 - CC CV regulation
